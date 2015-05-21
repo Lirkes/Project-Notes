@@ -31,6 +31,6 @@ Bill, Nick, and Ian had a call of about an hour on 21 May 2015.
  
 - Next call is 18 June @ 3pm, Google Hangouts
 - Look into parallelizing the warc-indexing process using GNU Parallel (http://www.gnu.org/software/parallel/)
-- Look into providing secure access to Nick and Bill from Ian's computer so you can play with Shine
+- Look into providing secure access to Nick and Bill from Ian's computer so you can play with Shine (might purchase a cheap $5/month license from <https://forwardhq.com/> for this)
 - Ian will harass UW Library at some point about the cluster storage...
 
