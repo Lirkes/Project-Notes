@@ -34,3 +34,7 @@ Bill, Nick, and Ian had a call of about an hour on 21 May 2015.
 - Look into providing secure access to Nick and Bill from Ian's computer so you can play with Shine (might purchase a cheap $5/month license from <https://forwardhq.com/> for this)
 - Ian will harass UW Library at some point about the cluster storage...
 
+## Interim Updates
+
+- Using ngrok to establish link to the local instance of Shine - sent links to rest of project team.
+- command is `ngrok http 9000` if running on localhost:9000. Forwardhq ended up breaking everything for some reason.
